@@ -21,6 +21,7 @@ redirect_from:
 
 [//]: # ()
 [//]: # (My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> &#40;You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;.)
+# About me
 Hello, my name is **Luyang Cao**. I am currently a Ph.D. candidate at Nanjing University, also a member of the Reasoning & Learning Group, conducting research under the guidance of Professor Yinghuan Shi. My academic work primarily focuses on medical image computing, with specific interests in three interrelated areas: **medical image restoration** (enhancing low-quality clinical data), **medical image analysis** (developing diagnostic algorithms for disease detection), and **semi-supervised learning** (leveraging limited labeled data for robust model training).
 
 # 💬 Current Research Topics
