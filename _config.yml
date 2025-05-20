@@ -26,12 +26,12 @@ author:
   bio              : "School of Computer Science,Nanjing University"
   location         : "Nanjing, China"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "caoluyang@smail.nju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        : 
+  bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
