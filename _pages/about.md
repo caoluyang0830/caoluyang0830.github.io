@@ -44,7 +44,7 @@ Hello, my name is **Luyang Cao**. I am currently a Ph.D. candidate at Nanjing Un
 
 [Background Matters: A Cross-view Bidirectional
 Modeling Framework for Semi-supervised
-Medical Image Segmentation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Medical Image Segmentation](https://arxiv.org/abs/2505.16625)
 
 **Luyang Cao**, Jianwei Li, Yinghuan Shi
 
